@@ -6,3 +6,5 @@ YOUR_KEY - The key obtained in the point 2
 NAME_TO_APPEAR_ON_YOUR_PHONE - Give it a name ie RPI3
 ANY_UNIQUE_ID - make up an ID ie 314
 YOUR_PUBLIC_IP_OR_HOST_NAME - the IP or DNS obtained in the point 3
+
+KexAlgorithms diffie-hellman-group1-sha1,diffie-hellman-group-exchange-sha1
